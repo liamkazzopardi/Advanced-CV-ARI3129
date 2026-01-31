@@ -46,3 +46,7 @@ The `data/` directory contains the dataset and annotations used throughout the p
 ### Environment & Dependencies
 
 The project environment is defined in `Dependencies.yml` (the same one that was given in the group project resources).
+
+### Trained Models
+
+Due to file size restrictions, the trained models have been uploaded to [Google Drive](https://drive.google.com/drive/folders/1KNj_uAgLaKCxyCTztxPnd9kfeX1saIVE?usp=sharing).
