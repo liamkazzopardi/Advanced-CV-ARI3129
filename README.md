@@ -15,7 +15,7 @@ The following notebooks explore attribute classification (Mounting Type, Sign Co
 - [`2b_MountingType_DanielGalea.ipynb`](notebooks_attributes/2b_MountingType_DanielGalea.ipynb)
 - [`2b_SignConditions_LiamAzzopardi.ipynb`](notebooks_attributes/2b_SignConditions_LiamAzzopardi.ipynb)
 - [`2b_ViewingAngle_MatthewPrivitera.ipynb`](notebooks_attributes/2b_ViewingAngle_MatthewPrivitera.ipynb)
-- [`2b_sign_shape_LiamJakeVella.ipynb`](notebooks_attributes/2b_sign_shape_LiamJakeVella.ipynb)
+- [`2b_SignShape_LiamJakeVella.ipynb`](notebooks_attributes/2b_SignShape_LiamJakeVella.ipynb)
 
 #### Object Detection (`notebooks_detectors/`)
 The following notebooks implement and evaluate different object detection architectures:
